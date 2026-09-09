@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://count.getloli.com/get/@xiaoluoshen.github.readme?theme=minecraft" alt="Profile counter" height="160" />
+  <img src="https://count.getloli.com/get/@ReXinRou.github.readme?theme=minecraft" alt="Profile counter" height="160" />
 </p>
 
 <h1 align="center">心柔</h1>
@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xiaoluoshen">
-    <img src="https://img.shields.io/badge/GitHub-xiaoluoshen-181717?style=flat&logo=github" alt="GitHub" />
+  <a href="https://github.com/ReXinRou">
+    <img src="https://img.shields.io/badge/GitHub-ReXinRou-181717?style=flat&logo=github" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=xiaoluoshen&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ReXinRou&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub stats" />
 </p>
 
 ## About Me
@@ -35,11 +35,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
 
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=xiaoluoshen&layout=compact)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=ReXinRou&layout=compact)
 
 ## Contact
 
-- GitHub: [@xiaoluoshen](https://github.com/xiaoluoshen)
+- GitHub: [@ReXinRou](https://github.com/ReXinRou)
 
 ---
 
