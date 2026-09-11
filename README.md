@@ -44,3 +44,7 @@
 ---
 
 <p align="center">感谢访问我的主页！Thanks for visiting my profile.</p>
+
+## IP 信息
+
+[![IP 信息卡片](https://card.net.coffee/v1/card.svg?style=minimal)](https://ip.net.coffee/ip/ "查看 IP")
