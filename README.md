@@ -37,13 +37,6 @@
 
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=ReXinRou&layout=compact)
 
-## Contact
-
-- GitHub: [@ReXinRou](https://github.com/ReXinRou)
-
----
-
-<p align="center">感谢访问我的主页！Thanks for visiting my profile.</p>
 
 ## IP 信息
 
