@@ -47,4 +47,4 @@
 
 ## IP 信息
 
-[![IP 信息卡片](https://card.net.coffee/v1/card.svg?style=minimal)](https://ip.net.coffee/ip/ "查看 IP")
+[![IP 信息卡片](https://card.net.coffee/v1/card.svg?style=aurora&sticker=rocket)](https://ip.net.coffee/ip/ "查看 IP")
